@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Shadows+Into+Light&display=swap');
+
+body {
+    background-color: #766153;
+  }
+  #aranea1 > img {
+    height: 100px;
+    float: left;
+    padding: 3px;
+  }
+  #aranea1 {
+    padding: 10px 20px;
+    overflow: auto;
+    background-color: #373D20;
+  }
+  #aranea1 > ul li {
+    float: right;
+    list-style: none;
+  }
+  #aranea1 > ul li a {
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 20px;
+    border: 1px solid #BCBD8B;
+    padding: 10px;
+  }
+  #aranea2 > h2 {
+    color: whitesmoke;
+    text-align: center;
+    height: 200px;
+    background-image: url(../images/Imagen3.jpg);
+  }
+  main {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  main #aranea3 h2 {
+    color: whitesmoke;
+    text-align: center;
+  }
+  main #aranea3 p {
+    color: whitesmoke;
+    text-align: center;
+  }
+  main #aranea4 ul li {
+    list-style: none;
+    float: left;
+  }
+  main #aranea4 ul li a {
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 120px;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  main #araara1 h2 {
+    color: whitesmoke;
+    margin: 40px 0px 5px 0px;
+    padding: 30px;
+    text-align: center;
+  }
+  main #araara1 #ara1 td {
+    color: whitesmoke;
+  }
+  main #araara1 #ara1 {
+    width: 100%;
+    border: 10px solid whitesmoke;
+    border-collapse: collapse;
+  }
+  main #araara1 #ara1 td {
+    border: 1px solid whitesmoke;
+    padding: 10px;
+  }
+  
+  main #araara1 #ara1 thead {
+    background-color: #BCBD8B;
+  }
+  main #araara2 h2 {
+    color: whitesmoke;
+    margin: 10px 0px 5px 0px;
+    padding: 30px;
+    text-align: center;
+  }
+  main #araara2 #ara2 thead {
+    background-color: #BCBD8B;
+  }
+  main #araara2 #ara2 td {
+    color: whitesmoke;
+  }
+  main #araara2 #ara2 {
+    width: 100%;
+    border: 10px solid whitesmoke;
+    border-collapse: collapse;
+  }
+  main #araara2 #ara2 td {
+    border: 1px solid whitesmoke;
+    padding: 10px;
+  }
+  
+  main #araara3 h2 {
+    color: whitesmoke;
+    margin: 10px 0px 5px 0px;
+    padding: 30px;
+    text-align: center;
+  }
+  main #araara3 #ara3 thead {
+    background-color: #BCBD8B;
+  }
+  main #araara3 #ara3 td {
+    color: whitesmoke;
+  }
+  main #araara3 #ara3 {
+    width: 100%;
+    border: 10px solid whitesmoke;
+    border-collapse: collapse;
+  }
+  main #araara3 #ara3 td {
+    border: 1px solid whitesmoke;
+    padding: 10px;
+  }
+  footer {
+    background-color: #717744;
+  }
+  footer h3 {
+    text-align: center;
+    text-decoration: none;
+  }
+  footer h3 a {
+    text-decoration: none;
+    color: whitesmoke;
+  }
+
+  h1, h2, h3{
+    font-family: "Dancing Script", cursive;
+    font-size: xx-large;
+  }
+  
+  p, td, a{
+    font-family: "Shadows Into Light", cursive;
+    font-size: large;
+  }
